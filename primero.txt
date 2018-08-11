@@ -12,7 +12,3 @@ int main()
     std::cout << x << std::endl;
     return 0 ;
 }
-
-
-
-This only goes to the first branch !!!
